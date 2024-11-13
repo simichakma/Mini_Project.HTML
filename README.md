@@ -29,7 +29,7 @@
 
 <h> Personal Skills: </h2>
 <ul><li> Ms Word, Excel, Powerpoint , Visual Box</li>
-<li> Digital Marketing , mid_level menegment</li>
+<li> Digital Marketing , mid_level management</li>
 <li> Python,c,linux(basic),web Development,SQL</li>
 </ul>
 
