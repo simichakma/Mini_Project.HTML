@@ -1,11 +1,11 @@
 <html>
 <head><title>MY RESUMES </title></head>
-<body bgcolor= "pink">//body pink_color
+<body bgcolor= "pink">
 <table border= "1" align= "center" width = "60%">
 <tr>
 <th><h1>Welcome To My Resumes!</h1></th>
 <tr><th align= "left"><h2> Simi Chakma </h2>
-<img src= "IMG_20230227_080113 (1).jpg" align= "right" height= "200" width= "200" border= "1"/>//image_add
+<img src= "IMG_20230227_080113 (1).jpg" align= "right" height= "200" width= "200" border= "1"/>
 <b>Email: simichakma139@gmail.com</b>
 <br>Phone No:+8801*********<br>
   
